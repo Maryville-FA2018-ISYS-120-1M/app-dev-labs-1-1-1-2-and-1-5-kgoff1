@@ -10,14 +10,14 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
-
+print("Artist: Rolling Stones")
+print("Song: Paint it Black")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("I see a red door and I want it painted black")
+print("I see the girls walk by dressed in their summer clothes")
+print("I have to turn my head until my darkness goes")
 /*:
  
  _Copyright © 2017 Apple Inc._
